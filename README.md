@@ -12,7 +12,7 @@
 
 - 💬 Ask me about ``` React JS ```, ```Node JS```, ```JavaScript```
 
-- 📫 If you have any query, contact here **rushiypatil@gmail.com**
+- 📫 If you have any query, feel free to reach at **rushiypatil@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" margin="auto">
