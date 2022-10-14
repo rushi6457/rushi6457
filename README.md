@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning ```MERN Stack```
 
-- 👨‍💻 Checkout my portfolio here [https://rushi6457/rushi6457/github.io](https://rushi6457/rushi6457/github.io)
+- 👨‍💻 Checkout my portfolio here [Rushikesh Patil](https://rushi6457.github.io/)
 
 - 💬 Ask me about ``` React JS ```, ```Node JS```, ```JavaScript```
 
