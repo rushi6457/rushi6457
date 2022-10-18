@@ -12,7 +12,7 @@
 
 - 👨‍💻 Checkout my portfolio here [Rushikesh Patil](https://rushi6457.github.io/)
 
-- 💬 Ask me about ``` React JS ```, ```Node JS```, ```JavaScript```
+- 💬 Ask me about ``` React JS ```, ```Node JS```, ```JavaScript```,```Digital Marketing```
 
 - 📫 If you have any query, feel free to reach at **rushiypatil@gmail.com**
 
