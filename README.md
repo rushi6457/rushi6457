@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋, I'm Rushikesh</h1>
-<h2 align="center">💻 Full-Stack web developer</h2>
+<h2 align="center">💻 Aspiring Full-Stack web developer</h2>
 <h2 align="left">About Me :</h2><h4>Hey folks, I'm a Full Stack Web Developer who is passionate about learning new technology and building technology. Some of the technologies and tools I enjoy working with includes React JS, Node Js, HTML, CSS, JavaScript. I love to connect with the people to talk around Tech and digital marketing apart from that I'm a B-Tech graduate in Mechanical.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushi6457&label=Profile%20views&color=0e75b6&style=flat" alt="rushi6457" /> </p>
