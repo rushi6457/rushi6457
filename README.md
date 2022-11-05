@@ -17,6 +17,8 @@
 
 - 📫 If you have any query, feel free to reach at **rushiypatil@gmail.com**
 
+- 📂 Check out my resume [Rushikesh Patil Resume](https://drive.google.com/file/d/1zfgAqNIhGAsOxJNGAeF6KY0cxF45find/view?usp=sharing)
+
 <h2 align="left">Find me on internet:</h2>
 <p align="left" margin="auto">
 
