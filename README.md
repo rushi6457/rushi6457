@@ -21,14 +21,14 @@
 <p align="left" margin="auto">
 
 
-<a target="_blank" href="https://www.linkedin.com/in/rushikesh-patil-4a66b8236">
+<a href="https://www.linkedin.com/in/rushikesh-patil-4a66b8236">
 <img height="40" width="40" src="https://imgs.search.brave.com/xftaBJcDYQvKAz-LNOjPcXkUUhYb0-0MlgAbZQFxBqo/rs:fit:1067:1067:1/g:ce/aHR0cHM6Ly9kZWJy/YWFya28uY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDEyLzEx/L0xpbmtlZEluLWlj/b24ucG5n"/>
 </a>
 
 <a href="https://github.com/rushi6457" >
 <img align="centre" src="https://imgs.search.brave.com/aJ_AQXArrDrtZo0qz--mXarwkcwaVV43emlQcj4x-vo/rs:fit:1200:1080:1/g:ce/aHR0cHM6Ly9odHh0/LmNvLnphL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDE4LzExL2dp/dGh1Yi1sb2dvLmpw/Zw" height="40" width="40" /></a>
 
-<a href="https://github.com/rushi6457" >
+<a href="https://gmail.com/" >
 <img align="centre" src="https://imgs.search.brave.com/ezepuXK14_z3R2T7NJ9y4ZWpI72sqZfqgJTAN_aHwl8/rs:fit:1200:878:1/g:ce/aHR0cHM6Ly9uZXdz/LndpcmVmbHkuY29t/L3NpdGVzL3Bob25l/ZG9nLmNvbS9maWxl/cy9ibG9nL21haW5f/aW1hZ2UvMjAyMC8x/MC9nbWFpbC1uZXct/aWNvbi0yLmpwZw" height="40" width="40" /></a>
 </p>
 
