@@ -21,7 +21,7 @@
 <p align="left" margin="auto">
 
 
-<a href="https://www.linkedin.com/in/rushikesh-patil-4a66b8236">
+<a target="_blank" href="https://www.linkedin.com/in/rushikesh-patil-4a66b8236">
 <img height="40" width="40" src="https://imgs.search.brave.com/xftaBJcDYQvKAz-LNOjPcXkUUhYb0-0MlgAbZQFxBqo/rs:fit:1067:1067:1/g:ce/aHR0cHM6Ly9kZWJy/YWFya28uY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDEyLzEx/L0xpbmtlZEluLWlj/b24ucG5n"/>
 </a>
 
