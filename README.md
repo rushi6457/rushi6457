@@ -39,7 +39,7 @@
 <h1>Stats : </h1>
 
 
-<p><img src="https://github-profile-trophy.vercel.app/?username=rushi6457"/></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=rushi6457"/></p>
 
 <p><img width="400"  align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rushi6457&show_icons=true&locale=en&layout=compact" alt="rushi6457" /></p>
 <p><img   width="400"  align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rushi6457&" alt="rushi6457" /></p>
