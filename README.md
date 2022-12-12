@@ -1,11 +1,11 @@
 <h1 align="center">Hello World 👋, I'm Rushikesh</h1>
 <h2 align="center">💻 Aspiring Full-Stack web developer</h2>
-<h2 align="left">About Me :</h2><h4>Hey folks, I'm a Full Stack Web Developer who is passionate about learning new technology and building technology. Some of the technologies and tools I enjoy working with includes React JS, Node Js, HTML, CSS, JavaScript. I love to connect with the people to talk around Tech and digital marketing apart from that I'm a B-Tech graduate in Mechanical.</h4>
+<h2 align="left">About Me :</h2><h4>Hi, I'm a Full Stack Web Developer who is passionate about learning new technology and building technology. Some of the technologies and tools I enjoy working with includes React JS, Node Js, HTML, CSS, JavaScript. I love to connect with the people to talk around Tech and digital marketing apart from that I'm a B-Tech graduate in Mechanical.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushi6457&label=Profile%20views&color=0e75b6&style=flat" alt="rushi6457" /> </p>
 
 
-<img width="1000" height="600" src="https://camo.githubusercontent.com/8e7f01ffd4aa8cdaefba3a9bd25b8a4d96670aea74789d290b821f2739ff1d36/68747470733a2f2f696d67732e7365617263682e62726176652e636f6d2f7638756a394b3458425531536e414e6156656c69316677454f734875577630467a43752d6c7954766548732f72733a6669743a313230303a313230303a312f673a63652f6148523063484d364c7939706257466e2f5a53357a6148563064475679633352762f59327375593239744c336f76633352762f59327374646d566a644739794c586c762f6457356e4c58427962326479595731742f5a584974625746754c574e6f59584a682f5933526c6369316a62325270626d63742f646d566a644739794c575a73595851742f593246796447397662693170624778312f6333527959585270623234744e5463792f4d7a55794d544d354c6d70775a77"/>
+<img width="800" height="300" src="https://media1.giphy.com/media/vhVqGkxDYxAaRbOWVp/giphy.gif?cid=ecf05e471sjikj8trwt737k765154dm7rfft4dalvz4ks0oj&rid=giphy.gif&ct=g"/>
 
 <h2>More about me: </h2>
 
