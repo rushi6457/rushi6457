@@ -41,10 +41,10 @@
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=rushi6457"/></p>
 
-<p><img width="400"  align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rushi6457&show_icons=true&locale=en&layout=compact" alt="rushi6457" /></p>
-<p><img   width="400"  align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rushi6457&" alt="rushi6457" /></p>
+<p><img width="50%" align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushi6457&theme=tokyonight" alt="rushi6457" /></p>
+<p><img align='left'  width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=rushi6457&theme=dark&background=121029" alt="rushi6457" /></p>
 <br/>
-<p>&nbsp;<img   width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=rushi6457&show_icons=true&locale=en" alt="rushi6457" /></p>
+<p>&nbsp;<img align='left' width="45%" src="https://github-readme-stats.vercel.app/api?username=rushi6457&show_icons=true&theme=tokyonight" alt="rushi6457" /></p>
 
 
 
