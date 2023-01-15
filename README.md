@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning ```MERN Stack```
 
-- 👨‍💻 Checkout my portfolio here [Rushikesh Patil](https://rushi6457.github.io/portfolio)
+- 👨‍💻 Checkout my portfolio here [Rushikesh Patil](https://rushi6457.github.io/)
 
 - 💬 Ask me about ``` React JS ```, ```Node JS```, ```JavaScript```,```Digital Marketing```
 
